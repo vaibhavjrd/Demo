@@ -1,4 +1,5 @@
-// the hello world program
-class simple {
-console.log('Hello World');
-}
+class simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+} 
